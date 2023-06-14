@@ -17,3 +17,36 @@ Custom build  using Linux & OpenWRT
 - Балансировка WAN — каналов Internet-провайдеров
 - Бондинг
 - Максимальная функциональность и поддержка  IpV6
+
+
+
+Первый тестовый релиз маршрутизатора.
+
+VPN:
+WireGuard
+OpenVPN (сервер и клиент)
+MLVPN
+Tinc
+DSVPN
+Glorytun
+SoftEther
+PPTP (сервер и клиент)
+n2n
+
+Прокси:
+Shadowsocks (сервер и клиент)
+V2ray
+
+
+Оверлейные P2P сети:
+Yggdrasil
+CJDNS
+Zerotier
+Tailscale
+
+
+Контейнеры:
+-LXC
+-Docker
+
+*** Сборка "сырая" и много не протестировано.
